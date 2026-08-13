@@ -1,2 +1,1 @@
-Test file
-is changed
+Test file, multi row commit message test
